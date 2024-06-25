@@ -1,0 +1,14 @@
+C:\Users\Ank\source\repos\isKeyword\isKeyword\bin\Debug\net8.0\isKeyword.exe
+C:\Users\Ank\source\repos\isKeyword\isKeyword\bin\Debug\net8.0\isKeyword.deps.json
+C:\Users\Ank\source\repos\isKeyword\isKeyword\bin\Debug\net8.0\isKeyword.runtimeconfig.json
+C:\Users\Ank\source\repos\isKeyword\isKeyword\bin\Debug\net8.0\isKeyword.dll
+C:\Users\Ank\source\repos\isKeyword\isKeyword\bin\Debug\net8.0\isKeyword.pdb
+C:\Users\Ank\source\repos\isKeyword\isKeyword\obj\Debug\net8.0\isKeyword.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ank\source\repos\isKeyword\isKeyword\obj\Debug\net8.0\isKeyword.AssemblyInfoInputs.cache
+C:\Users\Ank\source\repos\isKeyword\isKeyword\obj\Debug\net8.0\isKeyword.AssemblyInfo.cs
+C:\Users\Ank\source\repos\isKeyword\isKeyword\obj\Debug\net8.0\isKeyword.csproj.CoreCompileInputs.cache
+C:\Users\Ank\source\repos\isKeyword\isKeyword\obj\Debug\net8.0\isKeyword.dll
+C:\Users\Ank\source\repos\isKeyword\isKeyword\obj\Debug\net8.0\refint\isKeyword.dll
+C:\Users\Ank\source\repos\isKeyword\isKeyword\obj\Debug\net8.0\isKeyword.pdb
+C:\Users\Ank\source\repos\isKeyword\isKeyword\obj\Debug\net8.0\isKeyword.genruntimeconfig.cache
+C:\Users\Ank\source\repos\isKeyword\isKeyword\obj\Debug\net8.0\ref\isKeyword.dll
